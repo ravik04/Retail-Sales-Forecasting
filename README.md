@@ -1,6 +1,6 @@
 # Retail Sales Forecasting
 
-## 📌 Overview
+## Overview
 The **Retail Sales Forecasting** project applies machine learning and time series regression techniques to predict future sales in the retail domain.  
 Accurate sales forecasts are crucial for **inventory management, marketing strategies, demand planning, and revenue optimization**.  
 
@@ -31,7 +31,7 @@ The project explores **Exploratory Data Analysis (EDA)**, **time series feature 
 
 ---
 
-## ⚙Installation & Requirements
+## Installation & Requirements
 Install the required dependencies before running the notebook:
 
 ```bash
